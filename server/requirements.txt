@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+pandas
+numpy
+joblib
+scikit-learn
+lightgbm
+tensorflow
+osmnx==1.9.3
+networkx
+shap
+lime
+pydantic
+firebase-admin
+requests
+python-dotenv
+google-genai
